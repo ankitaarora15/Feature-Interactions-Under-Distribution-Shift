@@ -420,30 +420,14 @@ Several extensions could make the study more comprehensive:
 
 To reproduce the analysis:
 
-1. Obtain the UCI Bike Sharing Dataset.
-2. Use the `hour.csv` file.
-3. Place the dataset in the appropriate location expected by the notebook.
-4. Install the required Python libraries.
-5. Open:
+1. Clone or download this repository.
+2. Ensure that `hour.csv` is available in the repository's root directory, alongside the notebook.
+3. Install the required Python libraries using `requirements.txt`.
+4. Open `distribution_shift_analysis.ipynb` in Jupyter Notebook or JupyterLab.
+5. Run all cells from beginning to end.
 
-```text
-notebooks/distribution_shift_analysis.ipynb
-```
+The notebook includes data exploration, feature selection, baseline model training, distribution-shift experiments, interaction calculations, robustness checks, sensitivity analysis, visualizations, and interpretation.
 
-6. Run all cells from the beginning.
-
-The notebook contains the complete analysis pipeline, including:
-
-- Data exploration
-- Feature selection
-- Model training
-- Baseline evaluation
-- Distribution-shift experiments
-- Interaction calculations
-- Robustness checks
-- Sensitivity analysis
-- Visualizations
-- Final interpretation
 
 ---
 
