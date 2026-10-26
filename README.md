@@ -472,26 +472,6 @@ https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ---
 
-## Project Structure
-
-```text
-Feature-Interactions-Under-Distribution-Shift/
-│
-├── README.md
-├── requirements.txt
-│
-├── notebooks/
-│   └── distribution_shift_analysis.ipynb
-│
-├── figures/
-│   └── ...
-│
-└── report/
-    └── Feature_Interactions_Distribution_Shift_Final_Report.pdf
-```
-
----
-
 ## Author
 
 **Ankita Arora**
